@@ -1,0 +1,19 @@
+{
+  "name": "digitalappmonitor",
+  "version": "1.0.0",
+  "description": "Monitor for check availability of a web, system, machine or DB system",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GenarLoya/DigitalAppMonitor.git"
+  },
+  "author": "genarold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenarLoya/DigitalAppMonitor/issues"
+  },
+  "homepage": "https://github.com/GenarLoya/DigitalAppMonitor#readme"
+}
